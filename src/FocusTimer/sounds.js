@@ -14,4 +14,3 @@ export const buttonPressAudio = new Audio('./assets/sounds/button-press.wav')
 
 
 export const kitchenTimer = new Audio('./assets/sounds/kitchen-timer.mp3')
-kitchenTimer.loop = true
