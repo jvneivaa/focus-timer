@@ -144,3 +144,15 @@ html:not(.running) .ph-pause-circle {
     color: #FFF;
 }
 
+/* MOBILE */
+
+@media (max-width: 800px) {
+    #app {
+        display: block;
+    }
+
+    #controls {
+        margin-bottom: 3rem;
+    }
+}
+
